@@ -1,0 +1,65 @@
+- name: Laura Suarez
+  photo: laura.jpg
+  duration: Research Scientist at Mila Quebec
+  info: PhD student
+  email:
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Ross Markello
+  photo: ross.jpg
+  duration: Data Science Engineer at <a href='https://www.octavebio.com/'> Octave Biosciences</a>
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Golia Shafiei
+  photo: golia.jpg
+  duration: Post-doc at U Penn
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ying-Qiu Zheng
+  photo: yingqiu.jpg
+  duration: PhD student at Oxford
+  info: MSc student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Bertha Vazquez-Rodriguez
+  photo: bertha.jpg
+  duration: Data Science Engineer at <a href='https://clemex.com/'> Clemex</a>
+  info: Post-Doc
+  email: bertha.vazquezrodriguez@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Nykan Mirchi
+  photo: nykan.jpg
+  duration: MD student at UofT
+  info: BSc student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
