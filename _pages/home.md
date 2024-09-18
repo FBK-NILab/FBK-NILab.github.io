@@ -77,9 +77,7 @@ Understanding the brain is one of the big challenges of the third millennium. Ou
 [//]: # "We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)), [Brain Canada](https://braincanada.ca/), Fonds de Recherché du Quebec ([FRQ](http://www.frq.gouv.qc.ca/)), and Healthy Brains For Healthy Lives (([HBHL](https://www.mcgill.ca/hbhl/))."
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_frq.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nserc.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cihr.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_crc.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_bc.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fbk.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn_black.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 120px">
 </figure>
