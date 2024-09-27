@@ -10,7 +10,7 @@
   education5:
 
 - name: Ludovico Coletta
-  photo: #ludovico_bn.jpg
+  photo: ludovico_coletta_avatar_bn.png
   info: Post-doc fellow
   email: lcoletta@fbk.eu
   number_educ: 0
@@ -30,7 +30,7 @@
   education4:
 
 - name: Chiara Riccardi
-  photo: chiara_riccardi_avatar_bn.jpg
+  photo: chiara_riccardi_avatar_bn.png
   info: PhD student
   email: chiara.riccardi-1@unitn.it
   number_educ: 0
@@ -50,7 +50,7 @@
   education4:
 
 - name: Gabriele De Leonardis
-  photo: gabriele_deleonardis_avatar_bn.jpg
+  photo: gabriele_deleonardis_avatar_bn.png
   info: MSc student
   email: gdeleonardis@fbk.eu
   number_educ: 0
