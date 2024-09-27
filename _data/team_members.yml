@@ -1,5 +1,5 @@
 - name: Paolo Avesani
-  photo: paolo_bn.jpg
+  photo: paolo_avesani_avatar_bn.png
   info: Principal Investigator
   email: avesani@fbk.eu
   number_educ: 0
@@ -10,7 +10,7 @@
   education5:
 
 - name: Ludovico Coletta
-  photo: ludovico_bn.jpg
+  photo: #ludovico_bn.jpg
   info: Post-doc fellow
   email: lcoletta@fbk.eu
   number_educ: 0
@@ -20,7 +20,7 @@
   education4:
 
 - name: Gabriele Amorosino
-  photo: amorosino_bn.jpg
+  photo: gabriele_amorosino_avatar_bn.png
   info: PhD student
   email: gamorosino@fbk.eu
   number_educ: 0
@@ -30,7 +30,7 @@
   education4:
 
 - name: Chiara Riccardi
-  photo: chiara_bn.jpg
+  photo: chiara_riccardi_avatar_bn.jpg
   info: PhD student
   email: chiara.riccardi-1@unitn.it
   number_educ: 0
@@ -50,7 +50,7 @@
   education4:
 
 - name: Gabriele De Leonardis
-  photo: deleonardis_bn.jpg
+  photo: gabriele_deleonardis_avatar_bn.jpg
   info: MSc student
   email: gdeleonardis@fbk.eu
   number_educ: 0
@@ -60,7 +60,7 @@
   education4:
 
 - name: Alberto Spolverato
-  photo: alberto_bn.jpg
+  photo: alberto_spolevrato_avatar_bn.png
   info: MSc student
   email: alberto.spolverato@studenti.unitn.it
   number_educ: 0

@@ -1,9 +1,50 @@
-- title: "ABC"
-  image: res_null.png
-  description: How do we demonstrate that a brain network feature is statistically unexpected? Null models are an inferential tool to assess the presence or magnitude of features, by selectively preserving specific architectural properties of brain networks while randomizing others. We develop and systematically benchmark null models to understand the architecture of brain networks.
+
+- title: "Direct Electrical Stimulation and neurological monitoring in awake surgery"
+  image: datasets_des.png
+  description: |
+    <br><br>
+    A collection of 2906 cortical and 1231 subcortical DES points derived from 592 low (WHO grade II) and 20 high grade (WHO grade III) glioma patients to provide a multimodal mapping of the networks underlying 12 functional domains. The 12 functional categories assessed during DES mapping were: verbal anomia, semantic and phonological paraphasia, non-verbal semantic association, motor and sensory responses, mentalizing, movement arrest, spatial perception, speech arrest, verbal apraxia and visual.
+  link:
+    url: https://zenodo.org/records/10439149
+    display: Link to DES dataset
+  badge_: 1
+  badge: zenodo.10439149.svg
   highlight: 1
 
-- title: "Network Communication"
-  image: res_comm.png
-  description: A fundamental question in connectomics is how the organization of brain networks supports neural signaling. Using anatomically realistic brain networks derived from imaging and tracing, we develop computational models of inter-regional communication. We use these models to characterize how communication processes unfold on structural brain networks and how they support cognitive capacity.
+- title: "BraDiPho - Brain Dissection Photogrammetry and Tractography"
+  image: dataset_bradipho.png
+  description: |
+   <br><br>
+   A collection of 8 specimen 2906 cortical and 1231 subcortical DES points derived from 592 low (WHO grade II) and 20 high grade (WHO grade III) glioma patients to provide a multimodal mapping of the networks underlying 12 functional domains. The 12 functional categories assessed during DES mapping were: verbal anomia, semantic and phonological paraphasia, non-verbal semantic association, motor and sensory responses, mentalizing, movement arrest, spatial perception, speech arrest, verbal apraxia and visual.
+  link:
+    url: https://bradipho.eu
+    display: Link to BraDiPho
+  badge_: 0
+  badge: 
+  highlight: 1
+
+- title: "DBB - Paediatric Distorted Brains Benchmark"
+  image: dataset_dbb.png
+  description: |
+   <br><br>
+   The dataset is composed of 918 healthy individuals drawn from three open datasets with T1-w images: NIH-Ped, C-Mind, Medea-Ped. The T1w images with distortions are organized into four different categories depending on the etiology: Agenesis of the Corpus Callosum (ACC), Posterior Fossa Malformations (PFM), Malformations of Cortical Development (MCDs), and severe distortion brains related to complex malformations or lesions (HD). All the T1w images are distributed with the annotation of brain tissues.
+
+  link:
+    url: https://doi.org/10.25663/brainlife.pub.24
+    display: Link to DBB dataset
+  badge_: 1
+  badge: brainlife.1025663.svg
+  highlight: 1
+
+- title: "ARTRACK - Artifactual tracks in human brain tractograms"
+  image: dataset_verifyber.png
+  description: |
+   <br><br>
+   The dataset is composed of 20 individuals randomly selected from HCP repository. The processing pipeline carried out the estimation of the diffusivity model using the Constrained Spherical Deconvolution (CSD), and the fiber tracking using the algorithm for Particle Filtering Anatomically Constrained Tractography (PF-ACT). Tractograms were normalized to the same space via non-linear co-registration to the MNI152 standard brain. The binary labelling was performed using Extractor (Petit et al., 2022), a rule-based method that implements an exclusive policy to elicit the notion of anatomical plausibility.
+
+  link:
+    url: https://doi.org/10.25663/brainlife.pub.13
+    display: Link to ARTRACK dataset
+  badge_: 1
+  badge: brainlife.1025663-13.svg
   highlight: 1
