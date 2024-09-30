@@ -1,39 +1,29 @@
-- title: "Neuroimaging Data Science"
+- title: "Integrating direct electrical brain stimulation with the human connectome"
   image: res_neuromaps.png
-  description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
+  description: Direct electrical stimulation (DES) during cognitive and neurological monitoring is currently considered the most reliable brain mapping procedure for identifying brain regions critical for functional preservation. However, DES is unable to recover functional brain networks. By integrating DES with non-invasive functional connectome mapping, we unveiled the causal macroscale substrate subtending critical cognitive functions. Possible applications range from neurosurgery to psychiatry and neurology.
   highlight: 1
 
-- title: "Annotated Connectomics"
+- title: "Learning Tractogram Alignment"
   image: res_annot_vince.png
-  description: Brain regions differ in terms of their cytoarchitecture, neurotransmitter receptor profiles, gene expression, temporal dynamics, etc. We reconstruct “annotated” connectomes, enriched with features. The goal of this work is to understand how microscopic properties and macroscale network embedding interact to support the emergence of global dynamics and patterned neural activity.
+  description: White matter pathways are encoded as tractogram data, representing 3D fiber pathways in the brain. Aligning tractograms is crucial for analyzing white matter across different subjects or mapping to a template. Current alignment methods rely on volumetric registration, which lacks fiber-specific orientation, leading to suboptimal results. This work proposes a Geometric Deep Learning solution to improve tractogram alignment by exploiting fiber correspondence, enabling supervised learning for more accurate alignment.
   highlight: 1
   
-- title: "Structure-Function Coupling"
+- title: "Brain Dissection Photogrammetry"
   image: res_scfc_2.png
-  description: Networks of white matter fibers projections form polyfunctional neural circuits that support cognition. We study how the structural organization of the brain supports emergent neural dynamics. We are primarily interested in how structure-function coupling varies across the cortical hierarchy, how it depends on local micro-architecture, and how it varies across time.
+  description: Photogrammetry was applied to cortex-sparing Klingler microdissection of the human brain, enabling accurate 3D reproduction of white matter neuroanatomy for validating tractography data. However, limited access to post-mortem brains and the complexity of dissection hindered generalization. To overcome these limitations, the BraDiPho (Brain Dissection Photogrammetry) framework was developed, offering a user-friendly platform to explore both microdissection and tractography data within the same environment.
   highlight: 1
 
-- title: "Neuromorphic Networks"
+- title: "Automatic white matter bundles segmentation in glioma patients"
   image: res_rc.png
-  description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers - connectomes that can be trained to perform cognitive tasks, such as working memory, language comprehension, spatial navigation.
+  description: This project focuses on developing methods to segment white matter bundles in glioma patients automatically. This task is relevant to plan glioma resection surgery and reduces the risk of damage to the white matter bundles. Large public reference datasets are available for healthy populations, but not for glioma patients. We addressed this problem by using transfer learning from healthy population to glioma and we proved it to be successful in improving segmentation performance in glioma patients.
   highlight: 1
 
-- title: "Disease Propagation"
+- title: "Tractogram filtering with geometric deep learning"
   image: res_agent.png
-  description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We develop generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription) to predict the evolution of neurodegenerative diseases. 
+  description: A tractogram is a virtual representation of brain white matter, consisting of millions of 3D polylines that approximate axonal pathways. Despite their accuracy in tasks like presurgical planning and brain disorder investigation, many tractogram fibers are artifacts. Verifyber addresses this by filtering non-plausible fibers using anatomical knowledge, rather than signal reconstruction or topology. Utilizing sequence Edge Convolution (sEC), Verifyber classifies fibers with >95% accuracy in under a minute for 1M fibers.
   highlight: 1
 
-- title: "Statistical Connectomics"
+- title: "Neuroanatomical bundle segmentation with machine learning"
   image: res_stat.png
-  description: An emerging theme in network neuroscience emphasizes links between multiscale structural and functional features of the brain, and the rich cognitive-behavioural repertoire they support. We develop multivariate statistical learning techniques that map high-dimensional brain imaging modalities to phenotypic variation in healthy and clinical populations.
-  highlight: 1
-
-- title: "Null Models"
-  image: res_null.png
-  description: How do we demonstrate that a brain network feature is statistically unexpected? Null models are an inferential tool to assess the presence or magnitude of features, by selectively preserving specific architectural properties of brain networks while randomizing others. We develop and systematically benchmark null models to understand the architecture of brain networks.
-  highlight: 1
-
-- title: "Network Communication"
-  image: res_comm.png
-  description: A fundamental question in connectomics is how the organization of brain networks supports neural signaling. Using anatomically realistic brain networks derived from imaging and tracing, we develop computational models of inter-regional communication. We use these models to characterize how communication processes unfold on structural brain networks and how they support cognitive capacity.
+  description: Classifyber is an AI-based method for automatic and accurate white matter bundle segmentation from tractography data, designed to assist in both research and clinical applications. It approaches segmentation as a supervised learning problem, using expert-based example bundles to learn segmentation rules. Classifyber extracts bundles by combining atlases, connectivity patterns, and fiber geometry. It outperforms state-of-the-art methods in accuracy, is fast, and aids in tasks like surgical planning and white matter assessment.
   highlight: 1

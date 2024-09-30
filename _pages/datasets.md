@@ -45,10 +45,13 @@ permalink: /Datasets/
   <h3>{{ dataset.title }}</h3>
   <p>{{ dataset.description }}</p>
   {% if dataset.badge_ == 1 %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/datasets/{{ dataset.badge }}" class="img-responsive" width="30%" style="float: left" alt="{{ dataset.title }}"/>
+  <a href="{{ dataset.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/datasets/{{ dataset.badge }}" class="img-responsive" width="30%" style="float: left" alt="{{ dataset.title }}"/></a>
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/datasets/{{ dataset.badge }}" class="img-responsive" width="30%" style="float: left" alt="{{ dataset.title }}"/> -->
   {% endif %}
   <div style="clear: left;">
+  {% if dataset.badge_ == 0 %}
   <p><strong><a href="{{ dataset.link.url }}">{{ dataset.link.display }}</a></strong></p>
+  {% endif %}
   </div>
   </div>
   </div>
