@@ -5,7 +5,7 @@ excerpt: "Neuroinformatics Lab at FBK."
 sitemap: false
 permalink: /
 ---
-
+<br>
 Understanding the brain is one of the big challenges of the third millennium. Our leverage is a joint effort of neuroscientists, clinicians and computer scientists. The improvement of neuroimaging analysis is our contribution to help deal with brain disorders. Artificial Intelligence is the way to learn from brain data.
 
 
@@ -69,15 +69,12 @@ Understanding the brain is one of the big challenges of the third millennium. Ou
   </a>
 </div>
 
-
-[//]: # "We use neuroimaging (MRI, M/EEG, PET) to map and model patterns of neural connectivity. We pursue several research themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and disease propagation (see [Research](research))."
-
-[//]: # "We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our colleagues in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/)."
-
-[//]: # "We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)), [Brain Canada](https://braincanada.ca/), Fonds de Recherché du Quebec ([FRQ](http://www.frq.gouv.qc.ca/)), and Healthy Brains For Healthy Lives (([HBHL](https://www.mcgill.ca/hbhl/))."
-
+The <b>Neuroinformatics Laboratory</b> (NILab) rises as a collaborative initiative between the <b>Centre for Augmented Intelligence</b> of Fondazione Bruno Kessler and the <b>Centre for Mind and Brain Sciences</b> of the University of Trento in order to promote interdisciplinary research in cognitive neuroscience. Neuroinformatics stands at the intersection of neuroscience and computer science, and it provides theories and technologies for managing, analyzing, and modeling data collected with modern instruments of brain inspection used within the neuroscience community.
+<br><br>
+The research activity covers mostly the design and the development of novel computational models for the integration, analysis, and interpretation of unimodal and multimodal brain-imaging data. The research interests include the translation of results to clinical neuroscience.
+<br><br>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fbk.png" style="width: 50px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn_black.png" style="width: 130px"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 240px">
 </figure>
