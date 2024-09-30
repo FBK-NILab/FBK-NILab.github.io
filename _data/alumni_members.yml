@@ -1,7 +1,7 @@
-- name: Laura Suarez
-  photo: laura.jpg
-  duration: Research Scientist at Mila Quebec
-  info: PhD student
+- name: Sofia Ghezzi
+  photo: sofia_ghezzi_avatar_bn.png
+  duration: AIDA Innovazione, Italy
+  info: Research Assistant
   email:
   number_educ: 0
   education1: 
@@ -9,9 +9,20 @@
   education3:
   education4:
 
-- name: Ross Markello
-  photo: ross.jpg
-  duration: Data Science Engineer at <a href='https://www.octavebio.com/'> Octave Biosciences</a>
+- name: Emanuele Olivetti
+  photo: emanuele_olivetti_avatar_bn.png
+  duration: ADIA, United Arabs Emirates
+  info: Researcher
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Pietro Astolfi
+  photo: pietro_astolfi_avatar_bn.png
+  duration: Facebook, Montreal, CA
   info: PhD student
   email:
   number_educ: 0
@@ -20,21 +31,10 @@
   education3:
   education4:
 
-- name: Golia Shafiei
-  photo: golia.jpg
-  duration: Post-doc at U Penn
-  info: PhD student
-  email:
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: Ying-Qiu Zheng
-  photo: yingqiu.jpg
-  duration: PhD student at Oxford
-  info: MSc student
+- name: Giulia Bertò
+  photo: giulia_berto_avatar_bn.png
+  duration: University of Texas, USA
+  info: PhD Student
   email:
   number_educ: 0
   education1:
@@ -42,10 +42,10 @@
   education3:
   education4:
   
-- name: Bertha Vazquez-Rodriguez
-  photo: bertha.jpg
-  duration: Data Science Engineer at <a href='https://clemex.com/'> Clemex</a>
-  info: Post-Doc
+- name: Ruben Sebastian Verhagen
+  photo: ruben_veraghen_avatar_bn.png
+  duration: Delft University of Technology, NL
+  info: Master Student
   email: bertha.vazquezrodriguez@mail.mcgill.ca
   number_educ: 0
   education1:
@@ -53,13 +53,93 @@
   education3:
   education4:
   
-- name: Nykan Mirchi
-  photo: nykan.jpg
-  duration: MD student at UofT
-  info: BSc student
+- name: Diego Vega Pons
+  photo: diego_vega_pons_avatar_bn.png
+  duration: Voloridge Investment Management, Jupiter, USA
+  info: Post-doc fellow
   email:
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
+
+- name: Danilo Benozzo
+  photo: danilo_benozzo_avatar_bn.png
+  duration: University of Pavia, Italy
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Diana Porro Munoz
+  photo: diana_porro_munoz_avatar_bn.png
+  duration: Accelya Group, Miami, USA
+  info: Post-doc fellow
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Seyed Mostafa Kia
+  photo: seyed_mostafa_kia_avatar_bn.png
+  duration: Tilburg University, NL
+  info: Master Student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Nusrat Sharmin
+  photo: nusrat_sharmin_avatar_bn.png
+  duration: Ahsanullah University of Science and Technology, Bangladesh
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Vittorio Iacovella
+  photo: vittorio_iacovella_avatar_bn.png
+  duration: University of Trento, Italy
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Susanne Greiner
+  photo: susanne Greiner_avatar.png
+  duration: Würth Phoenix, Italy
+  info: PhD Student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Gaetano Calabrese
+  photo: gaetano_calabrese_avatar_bn.png
+  duration: Fondazione Bruno Kessler, Italy
+  info: Software Engineer
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+
+

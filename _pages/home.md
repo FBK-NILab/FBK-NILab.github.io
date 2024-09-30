@@ -73,8 +73,12 @@ The <b>Neuroinformatics Laboratory</b> (NILab) rises as a collaborative initiati
 <br><br>
 The research activity covers mostly the design and the development of novel computational models for the integration, analysis, and interpretation of unimodal and multimodal brain-imaging data. The research interests include the translation of results to clinical neuroscience.
 <br><br>
-<figure class="fourth">
+<!-- <figure class="fourth"> -->
+<div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fbk.png" style="width: 50px">
+  &nbsp;
+  &nbsp;
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn_black.png" style="width: 130px"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 240px">
-</figure>
+</div>
+<!-- </figure> -->

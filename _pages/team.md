@@ -87,7 +87,7 @@ Jump to [team](#team) or [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; border-radius: 50%;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br> Now: {{ member.duration }}</i>
   <ul style="overflow: hidden">
