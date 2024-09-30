@@ -29,34 +29,34 @@ Understanding the brain is one of the big challenges of the third millennium. Ou
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/nilab_website_slider1.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_scfc.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_scfc.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_hierarchy.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_hierarchy.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_pls.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_pls.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_annotated.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_annotated.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_mami.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_mami.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_agent.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_agent.png" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_snf.png" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_snf.png" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_epicenter.png" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_epicenter.png" alt="Slide 9" />
         </div>       
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide_comm.png" alt="Slide 10" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -77,7 +77,7 @@ Understanding the brain is one of the big challenges of the third millennium. Ou
 [//]: # "We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)), [Brain Canada](https://braincanada.ca/), Fonds de Recherché du Quebec ([FRQ](http://www.frq.gouv.qc.ca/)), and Healthy Brains For Healthy Lives (([HBHL](https://www.mcgill.ca/hbhl/))."
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fbk.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn_black.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_fbk.png" style="width: 90px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn_black.png" style="width: 130px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_unitn-cimec_black.png" style="width: 390px">
 </figure>

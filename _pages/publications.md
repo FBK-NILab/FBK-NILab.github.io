@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Publications"
+title: "NILab - Publications"
 layout: gridlay
-excerpt: "NetNeuroLab -- Publications."
+excerpt: "NILab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

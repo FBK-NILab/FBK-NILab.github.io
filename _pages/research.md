@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Research"
+title: "NILab - Research"
 layout: textlay
-excerpt: "NetNeuroLab - Research"
+excerpt: "NILab - Research"
 sitemap: false
 permalink: /research/
 ---

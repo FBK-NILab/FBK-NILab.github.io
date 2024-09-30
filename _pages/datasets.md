@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Datasets"
+title: "NILab - Datasets"
 layout: datasets
-excerpt: "NetNeuroLab - Datasets"
+excerpt: "NILab - Datasets"
 sitemap: false
 permalink: /Datasets/
 ---
