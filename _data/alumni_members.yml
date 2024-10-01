@@ -64,6 +64,17 @@
   education3:
   education4:
 
+- name: Giovanni Videtta
+  photo: giovanni_videtta_avatar_bn.png
+  duration: University of Milan, Italy
+  info: Master Student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: Danilo Benozzo
   photo: danilo_benozzo_avatar_bn.png
   duration: University of Pavia, Italy

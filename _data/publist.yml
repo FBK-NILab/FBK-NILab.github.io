@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1093/brain/awad402
     display: Brain (2024)
-  highlight: 0
+  highlight: 1
 
 - title: "brainlife.io: A decentralized and open source cloud platform to support neuroimaging research"
   image: 
@@ -15,3 +15,80 @@
     url: https://doi.org/10.1038/s41592-024-02237-2 
     display: Nature Methods (2024)
   highlight: 0
+
+
+#   Marco Tagliaferri, Gabriele Amorosino, Linda Voltolini, Davide Giampiccolo, Paolo Avesani, Luigi Cattaneo, (2024) A revision of the dorsal origin of the frontal aslant tract (FAT) in the superior frontal gyrus: a DWI-tractographic study, Brain Structure and Function
+# https://doi.org/10.1007/s00429-024-02778-4
+
+# HIGHLIGHT Soichi Hayashi , Bradley Caron , Anibal Heinsfeld , Sophia Vinci-Booher , Brent McPherson , Daniel Bullock , Giulia Bertò , Julia Guiomar Niso , Sandra Hanekamp , Daniel Levitas , Lindsey Kitchell , Josiah Leong , Filipi Silva , Serge Koudoro , Hanna Willis , Jasleen Jolly , Derek Pisner , Taylor Zuidema , Jan Kurzawski , Kyriaki Mikellidou , Aurore Bussalb , Chris Rorden , Conner Victory , Dheeraj Bhatia , Dogu Baran Aydogan , Fang-Cheng Yeh , Franco Delogu , Javier Guaje , Jelle Veraart , Jeremy Fischer , Joshua Faskowitz , Maximilien Chaumon , Ricardo Fabrega , David Hunt , Shawn McKee , Shawn Brown , Stéphanie Heyman , Vittorio Iacovella , Amanda Mejia , Daniele Marinazzo , R Cameron Craddock , Emanuele Olivetti , Jamie Hanson , Paolo Avesani , Eleftherios Garyfallidis , Dan Stanzione , James Carson , Robert Henschel , David Hancock , Craig Stewart , David Schnyer , Damian Eke , Russell Poldrack , Nathalie George , Holly Bridge , Ilaria Sani , Winrich Freiwald , Aina Puce , Nicholas Port , Kimberly Ray , Anne MacKenzie , Steffen Bollmann , Ashley Stewart (2024) brainlife.io: A decentralized and open source cloud platform to support neuroimaging research, Nature Methods
+# https://doi.org/10.1038/s41592-024-02237-2
+
+# Luca Zigiotto, Gabriele Amorosino, Francesca Saviola, Jorge Jovicich, Luciano Annicchiarico, Umberto Rozzanigo, Emanuele Olivetti, Paolo Avesani, Silvio Sarubbo, (2024) Spontaneous unilateral spatial neglect recovery after brain tumour resection: A multimodal diffusion and rs‐fMRI case report, Journal of Neuropsychology 
+# https://doi.org/10.1111/jnp.12339
+
+# Chiara Riccardi (2024) Can Transfer Learning Improve Supervised Segmentation of White Matter Bundles in Glioma Patients?, MICCAI Workshop Computational Diffusion MRI (CDMRI), 
+
+# Daniel Baldauf, Marco Bedini, Emanuele Olivetti, Paolo Avesani, Orhan Soyuhos, (2024) ‘What’ and ‘Where’ pathways within prefrontal cortex govern top-down attentional control through their differential connectivity fingerprints. Salzburg Min Brain Annual Meeting (SAMBA), Salzburg, Österreich, July 11-12, 2024
+# http://dx.doi.org/10.13140/RG.2.2.15686.89922
+
+# HIGHLIGHT Pietro Astolfi, Ruben Verhagen, Laurent Petit, Emanuele Olivetti, Silvio Sarubbo, Jonathan Masci, Davide Boscaini, Paolo Avesani, (2023) Supervised Tractogram Filtering using Geometric Deep Learning, Medical Image Analysis
+# https://doi.org/10.1016/j.media.2023.102893
+
+# Marco Tagliaferri, Davide Giampiccolo, Sara Parmigiani, Paolo Avesani, Luigi Cattaneo, (2023) Connectivity by the Frontal Aslant Tract (FAT) explains local functional specialization of the superior and inferior frontal gyri in humans when choosing predictive over reactive strategies: a tractography-guided TMS study, Journal of Neuroscience
+# https://doi.org/10.1523/JNEUROSCI.0406-23.2023
+
+# Marco Bedini, Emanuele Olivetti, Paolo Avesani, Daniel Baldauf, (2023) Accurate localization and coactivation profiles of the frontal eye field and inferior frontal junction: an ALE and MACM fMRI meta-analysis, Brain Structure and Function
+# https://dx.doi.org/10.1007/s00429-023-02641-y
+
+# Laura Vavassori, Martina Venturini, Luca Zigiotto, Luciano Annicchiarico, Francesco Corsini, Paolo Avesani, Laurent Petit, Alessandro De Benedictis, Silvio Sarubbo, (2023) The Arcuate Fasciculus: Combining Structure and Function into Surgical Considerations, Brain and Behaviour
+# https://doi.org/10.1002/brb3.3107
+
+# Luca Zigiotto; Gabriele Amorosino; Francesca Saviola; Jorge Jovicich; Luciano Annicchiarico; Umberto Rozzanigo; Emanuele Olivetti; Paolo Avesani; Silvio Sarubbo, (2023) Spontaneous Unilateral Spatial Neglect recovery after brain tumor resection: a multimodal diffusion and rs-fMRI case report, Journal of Neuropsychology
+# http://doi.org/10.1111/jnp.12339
+
+# Gabriele Amorosino, Emanuele Olivetti, Jorge Jovicich, Paolo Avesani, (2023) How Does White Matter Registration Affect Tractography Alignment? IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+# https://doi.org/10.1109/ISBI53787.2023.10230615
+
+# HIGHLIGHT Gabriele Amorosino, Denis Peruzzo, Daniela Redaelli, Emanuele Olivetti, Filippo Arrigoni, Paolo Avesani, (2022) DBB - A Distorted Brain Benchmark for Automatic Tissue Segmentation in Paediatric Patients, Neuroimage, 260
+# https://doi.org/10.1016/j.neuroimage.2022.119486
+
+# Luca Zigiotto, Laura Vavassori, Luciano Annicchiarico, Francesco Corsini, Paolo Avesani, Umberto Rozzanigo, Silvio Sarubbo, Costanza Papagno, (2022) Segregated circuits for phonemic and semantic fluency: A novel patient-tailored disconnection study, Neuroimage Clinical, 36
+# https://doi.org/10.1016/j.nicl.2022.103149
+# Romina Esposito, Marta Bortoletto, Domenico Zacà, Paolo Avesani, Carlo Miniussi, (2022) An integrated TMS-EEG and MRI approach to explore the interregional connectivity of the default mode network, Brain Structure and Function 
+# https://doi.org/10.1007/s00429-022-02453-6
+
+# Kariem Mahdy Ali, Paolo Avesani (2022) The Vertical Superior Longitudinal Fascicle and the Vertical Occipital Fascicle, Journal of Neurosurgical Sciences, 65(6), 581-589
+# https://doi.org/10.23736/S0390-5616.21.05368-6
+
+# HIGHLIGHT Giulia Bertò, Daniel Bullock, Pietro Astolfi, Soichi Hayashi, Luca Zigiotto, Luciano Annicchiarico, Francesco Corsini, Alessandro De Benedictis, Silvio Sarubbo, Franco Pestilli, Paolo Avesani, Emanuele Olivetti, (2021) Classifyber, a robust streamline-based linear classifier for white matter bundle segmentation, Neuroimage, 224
+# https://doi.org/10.1016/j.neuroimage.2020.117402
+
+# Silvio Sarubbo, Luciano Annicchiarico, Francesco Corsini, Luca Zigiotto, Guillaume Herbet, Sylvie Moritz-Gasser, Chiara Dalpiaz, Luca Vitali, Matthew Tate, Alessandro De Benedictis, Gabriele Amorosino, Emanuele Olivetti, Umberto Rozzanigo, Benedetto Petralia, Hugues Duffau, Paolo Avesani, (2021) Planning brain tumor resection using a probabilistic atlas of cortical and subcortical structures critical for functional processing: a proof of concept, Operative Neurosurgery, 20(3), 175-183
+# https://doi.org/10.1093/ons/opaa396
+
+# Alessio Bucciarelli, Emanuale Olivetti, Andrea Adami, Leandro Lorenzelli, (2021) Design of experiment rational optimization of an inkjet deposition of silver on Kapton, IEEE Sensors Journal, 1558-1748
+# https://doi.org/10.1109/JSEN.2021.3058543 
+
+# Kariem Mahdy Ali, Paolo Avesani, (2021) The vertical superior longitudinal fascicle and the vertical occipital fascicle, Journal Neurosurgical Sciences, 65(6):581-589. 
+# https://doi.org/10.23736/S0390-5616.21.05368-6
+
+# HIGHLIGHT Botvinik-Nezer R., et al., (2020) Variability in the analysis of a single neuroimaging dataset by many teams, Nature 582(7810): 84-88
+# DOI: 10.1038/s41586-020-2314-9 
+
+# Pauli Virtanen, et al., (2020) SciPy 1.0: fundamental algorithms for scientific computing in Python, Nature Methods, 17(3) 261-272
+# DOI: 10.1038/s41592-019-0686-2 
+
+# Luca Zigiotto, Luciano Annicchiarico, Francesco Corsini, Luca Vitali, Roberta Falchi, Chiara Dalpiaz, Umberto Rozzanigo, Mattia Barbareschi, Paolo Avesani, Costanza Papagno, Hugues Duffau, Franco Chioffi, Silvio Sarubbo, (2020) Effects of supra-total resection in neurocognitive and oncological outcome of high-grade gliomas comparing asleep and awake surgery, Journal of Neuro-Oncology, 148(1)
+# DOI: 10.1007/s11060-020-03494-9 
+
+# Pietro Astolfi, Ruben Verhagen, Laurent Petit, Emanuele Olivetti, Jonathan Masci, Davide Boscaini, Paolo Avesani, (2020) Tractogram filtering of anatomically non-plausible fibers with geometric deep learning,  International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) LNCS, vol 12267. Springer
+# DOI: 10.1007/978-3-030-59728-3_29 
+
+# Pietro Astolfi, Alessandro De Benedictis, Silvio Sarubbo, Giulia Bertó, Emanuele Olivetti, Diego Sona, Paolo Avesani, (2020) A Stem-Based Dissection of Inferior Fronto-Occipital Fasciculus with A Deep Learning Model, IEEE  International Symposium on Biomedical Imaging (ISBI). 
+# DOI: 10.1109/ISBI45749.2020.9098483
+
+# Gabriele Amorosino, Denis Peruzzo, Pietro Astolfi, Daniela Redaelli, Paolo Avesani, Filippo Arrigoni, Emanuele Olivetti, (2020) Automatic Tissue Segmentation with Deep Learning in Patients with Congenital or Acquired Distortion of Brain Anatomy, in Machine Learning in Clinical Neuroimaging and Radiogenomics in Neuro-oncology, LNCS, vol 12449. Springer.
+# DOI: 10.1007/978-3-030-66843-3_2
+
+# Emanuele Olivetti, Pietro Gori, Pietro Astolfi, Giulia Bertó, Paolo Avesani, (2020) Nonlinear Alignment of Whole Tractograms with the Linear Assignment Problem, International Workshop on Biomedical Image Registration (WBIR), LNCS, vol 12120. Springer.
+# DOI: 10.1007/978-3-030-50120-4_1
