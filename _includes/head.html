@@ -6,10 +6,31 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+  <style>
+    .black-bar {
+      width: 100%;
+      height: 55px; /* Height of the black bar */
+      background-color: rgb(33, 43, 51); /* Color of the bar */
+      position: relative; /* Keep it in the document flow */
+      z-index: 9999; /* Ensure it stays on top of other elements */
+    }
+    .bar-image {
+      height: 40px; /* Set the image height to a very small size */
+      margin-left: 355px; 
+      margin-right: 0px; /* Spacing to the right of the image */
+      width: auto; /* Maintain aspect ratio */
+      transform: translateY(-10px);
+    }
 
+    /* Ensure the navbar does not overlap the black bar */
+    .navbar {
+      margin-top: 0px; /* Adjust this margin to the height of the black bar */
+    }
+  </style>
+
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
