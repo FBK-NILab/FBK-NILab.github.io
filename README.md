@@ -15,5 +15,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div markdown=1>
 # FBK-NILab.github.io
 Website of Neuroinformatics Laboratory at Fondazione Bruno Kessler and University of Trento
-</div>div>
+</div>
 </body>
