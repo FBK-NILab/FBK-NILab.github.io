@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-
+<br><br>
 # Publications
 
 ## Highlights
@@ -30,6 +30,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <br><br><br>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -56,8 +57,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {{ publi.authors }} {{ publi.year }}. {{ publi.title }}. <em>{{ publi.journal }}</em>.<br>
+  {% if publi.doi == 1 %}DOI: <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}
 {% endfor %}
-
+<br>
