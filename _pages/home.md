@@ -45,7 +45,9 @@ Understanding the brain is one of the big challenges of the third millennium. Ou
   </a>
 </div>
 
-The <b>Neuroinformatics Laboratory</b> (NILab) rises as a collaborative initiative between the <b>Centre for Augmented Intelligence</b> of Fondazione Bruno Kessler and the <b>Centre for Mind and Brain Sciences</b> of the University of Trento in order to promote interdisciplinary research in cognitive neuroscience. Neuroinformatics stands at the intersection of neuroscience and computer science, and it provides theories and technologies for managing, analyzing, and modeling data collected with modern instruments of brain inspection used within the neuroscience community.
+The <b>Neuroinformatics Laboratory</b> (NILab) rises as a collaborative initiative between the <b>Centre for Augmented Intelligence</b> of Fondazione Bruno Kessler and the <b>Centre for Mind and Brain Sciences</b> of the University of Trento in order to promote interdisciplinary research in cognitive neuroscience. 
+<br><br>
+Neuroinformatics stands at the intersection of neuroscience and computer science, and it provides theories and technologies for managing, analyzing, and modeling data collected with modern instruments of brain inspection used within the neuroscience community.
 <br><br>
 The research activity covers mostly the design and the development of novel computational models for the integration, analysis, and interpretation of unimodal and multimodal brain-imaging data. The research interests include the translation of results to clinical neuroscience.
 <br><br>
