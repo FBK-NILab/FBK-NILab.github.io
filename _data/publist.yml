@@ -1,0 +1,311 @@
+- title: "A revision of the dorsal origin of the frontal aslant tract (FAT) in the superior frontal gyrus: a DWI-tractographic study"
+  image: 
+  description: 
+  authors: Tagliaferri, M. et al.
+  journal: Brain Structure and Function
+  year: 2024
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/s00429-024-02778-4
+    display: 10.1007/s00429-024-02778-4
+  highlight: 0
+
+- title: "Integrating direct electrical brain stimulation with the human connectome"
+  image: paper_coletta.png
+  description: <em>Abstract.</em> Neurological and neurodevelopmental conditions are a major public health concern for which new therapies are urgently needed...
+  authors: Coletta, L. et al.
+  journal: Brain
+  year: 2024
+  doi: 1
+  link:
+    url: https://doi.org/10.1093/brain/awad402
+    display: 10.1093/brain/awad402
+  highlight: 1
+
+- title: "brainlife.io: A decentralized and open source cloud platform to support neuroimaging research"
+  image: paper_hayashi.png
+  description: <em>Abstract.</em> Neuroscience is advancing standardization and tool development to support rigor and transparency... 
+  authors: Hayashi, S. et al.
+  journal: Nature Methods
+  year: 2024
+  doi: 1
+  link:
+    url: https://doi.org/10.1038/s41592-024-02237-2
+    display: 10.1038/s41592-024-02237-2
+  highlight: 1
+
+- title: "Spontaneous unilateral spatial neglect recovery after brain tumour resection: A multimodal diffusion and rs‐fMRI case report"
+  image: 
+  description: 
+  authors: Zigiotto, L. et al.
+  journal: Journal of Neuropsychology
+  year: 2024
+  doi: 1
+  link:
+    url: https://doi.org/10.1111/jnp.12339
+    display: 10.1111/jnp.12339
+  highlight: 0
+
+- title: "Can Transfer Learning Improve Supervised Segmentation of White Matter Bundles in Glioma Patients?"
+  image: 
+  description: 
+  authors: Riccardi, C. et al.
+  journal: MICCAI Workshop Computational Diffusion MRI (CDMRI)
+  year: 2024
+  doi: 0
+  link:
+    url:
+    display:
+  highlight: 0
+
+- title: "‘What’ and ‘Where’ pathways within prefrontal cortex govern top-down attentional control through their differential connectivity fingerprints"
+  image: 
+  description: 
+  authors: Baldauf, D. et al.
+  journal: Salzburg Min Brain Annual Meeting (SAMBA), Salzburg, Österreich
+  year: 2024
+  doi: 1
+  link:
+    url: http://dx.doi.org/10.13140/RG.2.2.15686.89922
+    display: 10.13140/RG.2.2.15686.89922
+  highlight: 0
+
+- title: "Supervised Tractogram Filtering using Geometric Deep Learning"
+  image: paper_astolfi.png
+  description: <em>Abstract.</em> A tractogram is a virtual representation of the brain white matter...
+  authors: Astolfi, P. et al.
+  journal: Medical Image Analysis
+  year: 2023
+  doi: 1
+  link:
+    url: https://doi.org/10.1016/j.media.2023.102893
+    display: 10.1016/j.media.2023.102893
+  highlight: 1
+
+- title: "Connectivity by the Frontal Aslant Tract (FAT) explains local functional specialization of the superior and inferior frontal gyri in humans when choosing predictive over reactive strategies: a tractography-guided TMS study"
+  image: 
+  description: 
+  authors: Tagliaferri, M. et al.
+  journal: Journal of Neuroscience
+  year: 2023
+  doi: 1
+  link:
+    url: https://doi.org/10.1523/JNEUROSCI.0406-23.2023
+    display: 10.1523/JNEUROSCI.0406-23.2023
+  highlight: 0
+
+- title: "Accurate localization and coactivation profiles of the frontal eye field and inferior frontal junction: an ALE and MACM fMRI meta-analysis"
+  image:
+  description: 
+  authors: Bedini, M. et al.
+  journal: Brain Structure and Function
+  year: 2023
+  doi: 1
+  link:
+    url: https://dx.doi.org/10.1007/s00429-023-02641-y
+    display: 10.1007/s00429-023-02641-y
+  highlight: 0
+
+- title: "The Arcuate Fasciculus: Combining Structure and Function into Surgical Considerations"
+  image: 
+  description: 
+  authors: Vavassori, L. et al.
+  journal: Brain and Behaviour
+  year: 2023
+  doi: 1
+  link:
+    url: https://doi.org/10.1002/brb3.3107
+    display: 10.1002/brb3.3107
+  highlight: 0
+
+- title: "Spontaneous Unilateral Spatial Neglect recovery after brain tumor resection: a multimodal diffusion and rs-fMRI case report"
+  image: 
+  description: 
+  authors: Zigiotto, L. et al. 
+  journal: Journal of Neuropsychology
+  year: 2023
+  doi: 1
+  link:
+    url: http://doi.org/10.1111/jnp.12339
+    display: 10.1111/jnp.12339
+  highlight: 0
+
+- title: "How Does White Matter Registration Affect Tractography Alignment?"
+  image:
+  description: 
+  authors: Amorosino, G. et al.
+  journal: IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+  year: 2023
+  doi: 1
+  link:
+    url: https://doi.org/10.1109/ISBI53787.2023.10230615
+    display: 10.1109/ISBI53787.2023.10230615
+  highlight: 0
+
+- title: "DBB - A Distorted Brain Benchmark for Automatic Tissue Segmentation in Paediatric Patients"
+  image: paper_amorosino.png
+  description: <em>Abstract.</em> T1-weighted magnetic resonance images provide a comprehensive view of the morphology of the human brain...
+  authors: Amorosino, G. et al.
+  journal: Neuroimage
+  year: 2022
+  doi: 1
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2022.119486
+    display: 10.1016/j.neuroimage.2022.119486
+  highlight: 1
+
+- title: "Segregated circuits for phonemic and semantic fluency: A novel patient-tailored disconnection study"
+  image: 
+  description: 
+  authors: Zigiotto, L. et al.
+  journal: Neuroimage Clinical
+  year: 2022
+  doi: 1
+  link:
+    url: https://doi.org/10.1016/j.nicl.2022.103149
+    display: 10.1016/j.nicl.2022.103149
+  highlight: 0
+
+- title: "An integrated TMS-EEG and MRI approach to explore the interregional connectivity of the default mode network"
+  image: 
+  description: 
+  authors: Esposito, R. et al.
+  journal: Brain Structure and Function
+  year: 2022
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/s00429-022-02453-6
+    display: 10.1007/s00429-022-02453-6
+  highlight: 0
+
+- title: "The Vertical Superior Longitudinal Fascicle and the Vertical Occipital Fascicle"
+  image: 
+  description: 
+  authors: Ali, K. M. & Avesani, P.
+  journal: Journal of Neurosurgical Sciences
+  year: 2022
+  doi: 1
+  link:
+    url: https://doi.org/10.23736/S0390-5616.21.05368-6
+    display: 10.23736/S0390-5616.21.05368-6
+  highlight: 0
+
+- title: "Classifyber, a robust streamline-based linear classifier for white matter bundle segmentation"
+  image: paper_berto.png
+  description: <em>Abstract.</em> Virtual delineation of white matter bundles in the human brain is of paramount importance for multiple applications...
+  authors: Bertò, G. et al.
+  journal: Neuroimage
+  year: 2021
+  doi: 1
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2020.117402
+    display: 10.1016/j.neuroimage.2020.117402
+  highlight: 1
+
+- title: "Planning brain tumor resection using a probabilistic atlas of cortical and subcortical structures critical for functional processing: a proof of concept"
+  image: 
+  description: 
+  authors: Sarubbo, S. et al.
+  journal: Operative Neurosurgery
+  year: 2021
+  doi: 1
+  link:
+    url: https://doi.org/10.1093/ons/opaa396
+    display: 10.1093/ons/opaa396
+  highlight: 0
+
+- title: "Design of experiment rational optimization of an inkjet deposition of silver on Kapton"
+  image: 
+  description: 
+  authors: Bucciarelli, A. et al.
+  journal: IEEE Sensors Journal
+  year: 2021
+  doi: 1
+  link:
+    url: https://doi.org/10.1109/JSEN.2021.3058543 
+    display: 10.1109/JSEN.2021.3058543
+  highlight: 0
+
+- title: "Variability in the analysis of a single neuroimaging dataset by many teams"
+  image: paper_botvinik.png
+  description: <em>Abstract.</em> Data analysis workflows in many scientific domains have become increasingly complex and flexible. Here we assess the effect of this flexibility...
+  authors: Botvinik-Nezer R., et al.
+  journal: Nature
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/ https://doi.org/10.1038/s41586-020-2314-9
+    display: 10.1038/s41586-020-2314-9
+  highlight: 1
+
+- title: "SciPy 1.0: fundamental algorithms for scientific computing in Python"
+  image: 
+  description: 
+  authors: Virtanen, P. et al.
+  journal: Nature Methods
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1038/s41592-019-0686-2
+    display: 10.1038/s41592-019-0686-2
+  highlight: 0
+
+- title: "Effects of supra-total resection in neurocognitive and oncological outcome of high-grade gliomas comparing asleep and awake surgery"
+  image: 
+  description: 
+  authors: Zigiotto, L. et al.
+  journal: Journal of Neuro-Oncology
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/s11060-020-03494-9 
+    display: 10.1007/s11060-020-03494-9 
+  highlight: 0
+
+- title: "Tractogram filtering of anatomically non-plausible fibers with geometric deep learning"
+  image: 
+  description: 
+  authors: Astolfi, P. et al.
+  journal: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) LNCS
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/978-3-030-59728-3_29
+    display: 10.1007/978-3-030-59728-3_29 
+  highlight: 0
+
+- title: "A Stem-Based Dissection of Inferior Fronto-Occipital Fasciculus with A Deep Learning Model"
+  image: 
+  description: 
+  authors: Astolfi, P. et al.
+  journal: IEEE  International Symposium on Biomedical Imaging (ISBI)
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1109/ISBI45749.2020.9098483
+    display: 10.1109/ISBI45749.2020.9098483
+  highlight: 0
+
+- title: "Automatic Tissue Segmentation with Deep Learning in Patients with Congenital or Acquired Distortion of Brain Anatomy"
+  image: 
+  description: 
+  authors: Amorosino, G. et al.
+  journal: in Machine Learning in Clinical Neuroimaging and Radiogenomics in Neuro-oncology, LNCS
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/978-3-030-66843-3_2
+    display: 10.1007/978-3-030-66843-3_2
+  highlight: 0
+
+- title: "Nonlinear Alignment of Whole Tractograms with the Linear Assignment Problem"
+  image: 
+  description: 
+  authors: Olivetti, E. et al.
+  journal: International Workshop on Biomedical Image Registration (WBIR), LNCS
+  year: 2020
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/978-3-030-50120-4_1
+    display: 10.1007/978-3-030-50120-4_1
+  highlight: 0

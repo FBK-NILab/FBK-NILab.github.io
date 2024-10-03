@@ -1,0 +1,70 @@
+- name: Paolo Avesani
+  photo: paolo_avesani_avatar_bn.png
+  info: Principal Investigator
+  email: avesani@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+
+- name: Ludovico Coletta
+  photo: ludovico_coletta_avatar_bn.png
+  info: Post-doc fellow
+  email: lcoletta@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Gabriele Amorosino
+  photo: gabriele_amorosino_avatar2_bn.png
+  info: PhD student
+  email: gamorosino@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Chiara Riccardi
+  photo: chiara_riccardi_avatar_bn.png
+  info: PhD student
+  email: chiara.riccardi-1@unitn.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Samuel Kostadinov
+  photo: samuel_kostadinov_avatar_bn.jpeg
+  info: PhD student
+  email: skostadinov@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Gabriele De Leonardis
+  photo: gabriele_deleonardis_avatar_bn.png
+  info: MSc student
+  email: gdeleonardis@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Alberto Spolverato
+  photo: alberto_spolevrato_avatar_bn.png
+  info: MSc student
+  email: alberto.spolverato@studenti.unitn.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
