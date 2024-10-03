@@ -10,18 +10,19 @@
 
   <style>
     .black-bar {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       width: 100%;
-      height: 55px; /* Height of the black bar */
+      height: 40px; /* Height of the black bar */
       background-color: rgb(33, 43, 51); /* Color of the bar */
       position: relative; /* Keep it in the document flow */
       z-index: 9999; /* Ensure it stays on top of other elements */
     }
     .bar-image {
       height: 40px; /* Set the image height to a very small size */
-      margin-left: 355px; 
-      margin-right: 0px; /* Spacing to the right of the image */
       width: auto; /* Maintain aspect ratio */
-      transform: translateY(-10px);
+      transform: translate(-460px, -4px);
     }
 
     /* Ensure the navbar does not overlap the black bar */
