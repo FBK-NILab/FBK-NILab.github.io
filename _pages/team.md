@@ -5,7 +5,7 @@ excerpt: "NILab: Team members"
 sitemap: false
 permalink: /team/
 ---
-<br><br>
+<br>
 # Group Members
 The lab hosts master’s students for internship and thesis from several universities. Our PhD students are affiliated to the [IECS Doctoral School](https://iecs.unitn.it) of the Department of Information Engineering and Computer Science (DISI), as well to the [Cognitive and Brain Sciences Doctoral School](https://unitn.it/drcimec) of the Center for Mind and Brain Sciences (CIMeC), both at the University of Trento.
 

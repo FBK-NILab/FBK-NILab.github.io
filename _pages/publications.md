@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<br><br>
+<br>
 # Publications
 
 ## Highlights
@@ -24,15 +24,17 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="height: 300px; overflow: hidden; position: relative;">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <br><br><br>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <div style="overflow: hidden; height: 100%;">
+   <p><em>{{ publi.authors }}</em></p>
+   <p>{{ publi.journal }}, {{ publi.year }}</p>
+   <p>{{ publi.description }}</p>
+   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+   <p> {{ publi.news2 }}</p>
+  </div>
  </div>
 </div>
 
@@ -57,7 +59,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }} {{ publi.year }}. {{ publi.title }}. <em>{{ publi.journal }}</em>.<br>
+  {{ publi.authors }} ({{ publi.year }}). {{ publi.title }}. <em>{{ publi.journal }}</em>.<br>
   {% if publi.doi == 1 %}DOI: <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% endif %}
 {% endfor %}
 <br>

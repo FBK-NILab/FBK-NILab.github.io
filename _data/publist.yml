@@ -3,7 +3,7 @@
   description: 
   authors: Tagliaferri, M. et al.
   journal: Brain Structure and Function
-  year: (2024)
+  year: 2024
   doi: 1
   link:
     url: https://doi.org/10.1007/s00429-024-02778-4
@@ -12,10 +12,10 @@
 
 - title: "Integrating direct electrical brain stimulation with the human connectome"
   image: paper_coletta.png
-  description: 
+  description: <em>Abstract.</em> Neurological and neurodevelopmental conditions are a major public health concern for which new therapies are urgently needed...
   authors: Coletta, L. et al.
   journal: Brain
-  year: (2024)
+  year: 2024
   doi: 1
   link:
     url: https://doi.org/10.1093/brain/awad402
@@ -24,10 +24,10 @@
 
 - title: "brainlife.io: A decentralized and open source cloud platform to support neuroimaging research"
   image: paper_hayashi.png
-  description: 
+  description: <em>Abstract.</em> Neuroscience is advancing standardization and tool development to support rigor and transparency... 
   authors: Hayashi, S. et al.
   journal: Nature Methods
-  year: (2024)
+  year: 2024
   doi: 1
   link:
     url: https://doi.org/10.1038/s41592-024-02237-2
@@ -39,7 +39,7 @@
   description: 
   authors: Zigiotto, L. et al.
   journal: Journal of Neuropsychology
-  year: (2024)
+  year: 2024
   doi: 1
   link:
     url: https://doi.org/10.1111/jnp.12339
@@ -49,9 +49,9 @@
 - title: "Can Transfer Learning Improve Supervised Segmentation of White Matter Bundles in Glioma Patients?"
   image: 
   description: 
-  authors: Riccardi, C.
+  authors: Riccardi, C. et al.
   journal: MICCAI Workshop Computational Diffusion MRI (CDMRI)
-  year: (2024)
+  year: 2024
   doi: 0
   link:
     url:
@@ -63,7 +63,7 @@
   description: 
   authors: Baldauf, D. et al.
   journal: Salzburg Min Brain Annual Meeting (SAMBA), Salzburg, Österreich
-  year: (2024)
+  year: 2024
   doi: 1
   link:
     url: http://dx.doi.org/10.13140/RG.2.2.15686.89922
@@ -72,10 +72,10 @@
 
 - title: "Supervised Tractogram Filtering using Geometric Deep Learning"
   image: paper_astolfi.png
-  description: 
+  description: <em>Abstract.</em> A tractogram is a virtual representation of the brain white matter...
   authors: Astolfi, P. et al.
   journal: Medical Image Analysis
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: https://doi.org/10.1016/j.media.2023.102893
@@ -87,7 +87,7 @@
   description: 
   authors: Tagliaferri, M. et al.
   journal: Journal of Neuroscience
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: https://doi.org/10.1523/JNEUROSCI.0406-23.2023
@@ -99,7 +99,7 @@
   description: 
   authors: Bedini, M. et al.
   journal: Brain Structure and Function
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: https://dx.doi.org/10.1007/s00429-023-02641-y
@@ -111,7 +111,7 @@
   description: 
   authors: Vavassori, L. et al.
   journal: Brain and Behaviour
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: https://doi.org/10.1002/brb3.3107
@@ -123,7 +123,7 @@
   description: 
   authors: Zigiotto, L. et al. 
   journal: Journal of Neuropsychology
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: http://doi.org/10.1111/jnp.12339
@@ -135,7 +135,7 @@
   description: 
   authors: Amorosino, G. et al.
   journal: IEEE 20th International Symposium on Biomedical Imaging (ISBI)
-  year: (2023)
+  year: 2023
   doi: 1
   link:
     url: https://doi.org/10.1109/ISBI53787.2023.10230615
@@ -144,10 +144,10 @@
 
 - title: "DBB - A Distorted Brain Benchmark for Automatic Tissue Segmentation in Paediatric Patients"
   image: paper_amorosino.png
-  description: 
+  description: <em>Abstract.</em> T1-weighted magnetic resonance images provide a comprehensive view of the morphology of the human brain...
   authors: Amorosino, G. et al.
   journal: Neuroimage
-  year: (2022)
+  year: 2022
   doi: 1
   link:
     url: https://doi.org/10.1016/j.neuroimage.2022.119486
@@ -159,7 +159,7 @@
   description: 
   authors: Zigiotto, L. et al.
   journal: Neuroimage Clinical
-  year: (2022)
+  year: 2022
   doi: 1
   link:
     url: https://doi.org/10.1016/j.nicl.2022.103149
@@ -171,7 +171,7 @@
   description: 
   authors: Esposito, R. et al.
   journal: Brain Structure and Function
-  year: (2022)
+  year: 2022
   doi: 1
   link:
     url: https://doi.org/10.1007/s00429-022-02453-6
@@ -183,7 +183,7 @@
   description: 
   authors: Ali, K. M. & Avesani, P.
   journal: Journal of Neurosurgical Sciences
-  year: (2022)
+  year: 2022
   doi: 1
   link:
     url: https://doi.org/10.23736/S0390-5616.21.05368-6
@@ -192,10 +192,10 @@
 
 - title: "Classifyber, a robust streamline-based linear classifier for white matter bundle segmentation"
   image: paper_berto.png
-  description: 
+  description: <em>Abstract.</em> Virtual delineation of white matter bundles in the human brain is of paramount importance for multiple applications...
   authors: Bertò, G. et al.
   journal: Neuroimage
-  year: (2021)
+  year: 2021
   doi: 1
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117402
@@ -207,7 +207,7 @@
   description: 
   authors: Sarubbo, S. et al.
   journal: Operative Neurosurgery
-  year: (2021)
+  year: 2021
   doi: 1
   link:
     url: https://doi.org/10.1093/ons/opaa396
@@ -219,7 +219,7 @@
   description: 
   authors: Bucciarelli, A. et al.
   journal: IEEE Sensors Journal
-  year: (2021)
+  year: 2021
   doi: 1
   link:
     url: https://doi.org/10.1109/JSEN.2021.3058543 
@@ -228,10 +228,10 @@
 
 - title: "Variability in the analysis of a single neuroimaging dataset by many teams"
   image: paper_botvinik.png
-  description: 
+  description: <em>Abstract.</em> Data analysis workflows in many scientific domains have become increasingly complex and flexible. Here we assess the effect of this flexibility...
   authors: Botvinik-Nezer R., et al.
   journal: Nature
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/ https://doi.org/10.1038/s41586-020-2314-9
@@ -243,7 +243,7 @@
   description: 
   authors: Virtanen, P. et al.
   journal: Nature Methods
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1038/s41592-019-0686-2
@@ -255,7 +255,7 @@
   description: 
   authors: Zigiotto, L. et al.
   journal: Journal of Neuro-Oncology
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1007/s11060-020-03494-9 
@@ -267,7 +267,7 @@
   description: 
   authors: Astolfi, P. et al.
   journal: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) LNCS
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1007/978-3-030-59728-3_29
@@ -279,7 +279,7 @@
   description: 
   authors: Astolfi, P. et al.
   journal: IEEE  International Symposium on Biomedical Imaging (ISBI)
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1109/ISBI45749.2020.9098483
@@ -291,7 +291,7 @@
   description: 
   authors: Amorosino, G. et al.
   journal: in Machine Learning in Clinical Neuroimaging and Radiogenomics in Neuro-oncology, LNCS
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1007/978-3-030-66843-3_2
@@ -303,7 +303,7 @@
   description: 
   authors: Olivetti, E. et al.
   journal: International Workshop on Biomedical Image Registration (WBIR), LNCS
-  year: (2020)
+  year: 2020
   doi: 1
   link:
     url: https://doi.org/10.1007/978-3-030-50120-4_1
