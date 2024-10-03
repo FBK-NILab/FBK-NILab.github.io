@@ -3,7 +3,7 @@ title: "NILab - Datasets"
 layout: datasets
 excerpt: "NILab - Datasets"
 sitemap: false
-permalink: /Datasets/
+permalink: /datasets/
 ---
 <br>
 # Datasets
