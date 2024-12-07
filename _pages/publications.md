@@ -9,9 +9,9 @@ permalink: /publications/
 <br>
 # Publications
 
-## Highlights
-
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=it&user=5g4UY4MAAAAJ&view_op=list_works&sortby=pubdate) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Avesani+P&cauthor_id=27747500). Code is available on our [GitHub repo](https://github.com/FBK-NILab).
+
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
