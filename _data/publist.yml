@@ -1,3 +1,15 @@
+- title: "Dissecting white matter pathways: Automatic and semiautomatic approaches"
+  image: 
+  description: 
+  authors: Garyfallidis, E. et al.
+  journal: Handbook of Diffusion MR Tractography
+  year: 2025
+  doi: 1
+  link:
+    url: https://doi.org/10.1016/B978-0-12-818894-1.00013-6
+    display: 10.1016/B978-0-12-818894-1.00013-6
+  highlight: 0
+
 - title: "Changing the Paradigm for Tractography Segmentation in Neurosurgery: Validation of a Streamline-Based Approach"
   image: 
   description: 
