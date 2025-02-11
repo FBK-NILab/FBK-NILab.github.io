@@ -238,18 +238,6 @@
     display: 10.1093/ons/opaa396
   highlight: 0
 
-- title: "Design of experiment rational optimization of an inkjet deposition of silver on Kapton"
-  image: 
-  description: 
-  authors: Bucciarelli, A. et al.
-  journal: IEEE Sensors Journal
-  year: 2021
-  doi: 1
-  link:
-    url: https://doi.org/10.1109/JSEN.2021.3058543 
-    display: 10.1109/JSEN.2021.3058543
-  highlight: 0
-
 - title: "Variability in the analysis of a single neuroimaging dataset by many teams"
   image: paper_botvinik.png
   description: <em>Abstract.</em> Data analysis workflows in many scientific domains have become increasingly complex and flexible. Here we assess the effect of this flexibility...
