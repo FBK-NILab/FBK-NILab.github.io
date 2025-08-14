@@ -1,6 +1,6 @@
 
 - title: "Mapping the speech production network by integrating intracranial stimulation, structural, and functional network mapping"
-  image: datasets_wm.png
+  image: dataset_wm.png
   description: |
     <br><br>
     The functional and structural network maps aligned in MNI152 standard brain and derived from the integration of intracranial stimulation during awake surgery with normative structural and functional network mapping. The functional categories assessed during awake surgery were semantics, phonology, and speech articulation.
