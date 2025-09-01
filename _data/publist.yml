@@ -1,4 +1,16 @@
 
+- title: "Anatomical insights into the superior longitudinal system from integrative in-vivo and ex-vivo mapping"
+  image: 
+  description: 
+  authors: Vavassori, L. et al.
+  journal: Nature Communications Biology
+  year: 2025
+  doi: 1
+  link:
+    url: https://doi.org/10.1038/s42003-025-08774-6
+    display: 10.1038/s42003-025-08774-6
+  highlight: 0
+
 - title: "Supervised white matter bundle segmentation in glioma patients with transfer learning"
   image: 
   description: 
