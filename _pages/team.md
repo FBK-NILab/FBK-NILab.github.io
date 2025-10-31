@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 <br>
-# Group Members
+# Lab Members
 The lab hosts master’s students for internship and thesis from several universities. Our PhD students are affiliated to the [IECS Doctoral School](https://iecs.unitn.it) of the Department of Information Engineering and Computer Science (DISI), as well to the [Cognitive and Brain Sciences Doctoral School](https://unitn.it/drcimec) of the Center for Mind and Brain Sciences (CIMeC), both at the University of Trento.
 
 Jump to [team](#team) or [alumni](#alumni).
