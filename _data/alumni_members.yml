@@ -1,3 +1,25 @@
+- name: Gabriele Amorosino
+  photo: gabriele_amorosino_avatar2_bn.png
+  info: Postdoc
+  duration: University of Texas, USA
+  email: gamorosino@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Gabriele De Leonardis
+  photo: gabriele_deleonardis_avatar_bn.png
+  info: Resaerch Assistant
+  duration: Lund University
+  email: gdeleonardis@fbk.eu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: Sofia Ghezzi
   photo: sofia_ghezzi_avatar_bn.png
   duration: AIDA Innovazione, Italy
