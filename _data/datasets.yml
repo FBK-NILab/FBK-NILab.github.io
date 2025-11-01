@@ -27,7 +27,7 @@
   image: dataset_bradipho.png
   description: |
    <br><br>
-   A collection of 3Dmodels of 8 ex-vivo specimen (four left and four right hemispheres), each demonstrating the progression of cortex-sparing Klingler dissection across 7 to 12 epochs per model. Each dissection layer is registered to a mesh model derived from the T1 MRI of the intact specimen. A series of twelve reference atlases registered within the radiological space of each BraDiPho model and each epoch. It comprises myelo- and cytoarchitectonic microstructural, functional and tractography-based human brain atlases.
+   A collection of 3Dmodels of 12 ex-vivo specimen (six left and six right hemispheres), each demonstrating the progression of cortex-sparing Klingler dissection across 7 to 12 epochs per model. Each dissection layer is registered to a mesh model derived from the T1 MRI of the intact specimen. A series of twelve reference atlases registered within the radiological space of each BraDiPho model and each epoch. It comprises myelo- and cytoarchitectonic microstructural, functional and tractography-based human brain atlases.
   link:
     url: https://bradipho.eu
     display: Link to BraDiPho
