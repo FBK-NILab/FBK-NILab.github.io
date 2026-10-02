@@ -29,16 +29,16 @@
   education3:
   education4:
 
-- name: Chiara Riccardi
-  photo: chiara_riccardi_avatar_bn2.png
+- name: Giovanni Sitti
+  photo: giovanni_sitti_avatar_bn.png
   info: PhD student
-  email: chiara.riccardi-1@unitn.it
+  email: giovanni.sitti@unitn.it
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
-
+  
 - name: Samuel Kostadinov
   photo: samuel_kostadinov_avatar_bn.jpeg
   info: PhD student
@@ -60,7 +60,7 @@
   education4:
   
 - name: Gabriele Fiaschi
-  photo: avatar_default_bn.png
+  photo: gabriele_fiaschi_avatar_bn.png
   info: PhD student
   email: gfiaschi@fbk.eu
   number_educ: 0
@@ -69,10 +69,10 @@
   education3:
   education4:
 
-- name: Giovanni Alesani
-  photo: giovanni_alesani_avatar_bn.png
+- name: Alessia Ianes
+  photo: alessia_ianes_avatar_bn.png
   info: MSc student
-  email: galesani@fbk.eu
+  email: aianes@fbk.eu
   number_educ: 0
   education1:
   education2:
@@ -93,6 +93,26 @@
   photo: giulia_mussetti_avatar_bn.png
   info: MSc student
   email: giulia.mussetti@studenti.unitn.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4: 
+
+- name: Thuy Thien Thanh Tran
+  photo: than_tran_avatar_bn.png
+  info: MSc student
+  email: thuythienthanh.tran@studenti.unitn.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Luca Galli
+  photo: luca_galli_avatar_bn.png
+  info: BSc student
+  email: luca.galli@studenti.unitn.it
   number_educ: 0
   education1:
   education2:
