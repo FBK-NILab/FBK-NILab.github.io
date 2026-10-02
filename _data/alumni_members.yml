@@ -1,3 +1,25 @@
+- name: Chiara Riccardi
+  photo: chiara_riccardi_avatar2_bn.png
+  info: PhD student
+  duration: Menz & Gasser, Italy
+  email: chiarayriccardi@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Giovanni Alesani
+  photo: giovanni_alesani_avatar_bn.png
+  info: Msc student
+  duration: Medtronic, Italy
+  email: giovanni.alesani@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: Gabriele Amorosino
   photo: gabriele_amorosino_avatar2_bn.png
   info: PhD student
