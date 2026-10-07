@@ -1,4 +1,16 @@
 
+- title: "Edge-Convolution Latent Inference for Brain Tractography Embedding"
+  image: 
+  description: 
+  authors: Kostadinov, S. et al.
+  journal: Lecture Notes in Computer Science
+  year: 2026
+  doi: 1
+  link:
+    url: https://doi.org/10.1007/978-3-032-39379-1_24
+    display: 10.1007/978-3-032-39379-1_24
+  highlight: 0
+
 - title: "Surface-based Tractography uncovers What and Where Pathways in Prefrontal Cortex"
   image: 
   description: 
